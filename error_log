@@ -1,0 +1,2 @@
+[02-Mar-2020 10:54:33 UTC] PHP Fatal error:  Cannot redeclare Common_model::select_option() in /home/mcfojotc/public_html/rstyping.com/staging/application/models/Common_model.php on line 128
+[02-Mar-2020 12:01:33 UTC] PHP Fatal error:  Cannot use [] for reading in /home/mcfojotc/public_html/rstyping.com/staging/application/controllers/admin/Lesson.php on line 167
